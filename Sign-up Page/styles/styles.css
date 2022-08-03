@@ -141,6 +141,20 @@
     margin-bottom:15px;
 }
 
+.add-icon{
+    background-color: #F5F6F7; 
+    padding-top:90px;
+    padding-bottom:90px;
+    padding-right:10px;
+    padding-left:10px;
+    
+}
+
+.add-sign{
+    color:#555C6B;
+    font-size:18px;
+    
+}
 
 .non-full-body-width{
     width:970px;
