@@ -142,3 +142,8 @@
 }
 
 
+.non-full-body-width{
+    width:970px;
+    margin-left:400px;
+    background-color:#90949C;
+}
